@@ -1,3 +1,4 @@
+<div align="center">
 
 
 # Student_Record_Manager
