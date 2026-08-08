@@ -1,14 +1,6 @@
 <div align="center">
 
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-  <rect width="64" height="64" rx="16" fill="#1B1815"/>
-  <polygon points="26,15 38,25 26,35 14,25" fill="#B87F4E" stroke="#8C5F37" stroke-width="1.5" stroke-linejoin="round"/>
-  <rect x="24" y="35" width="4" height="6" rx="1.5" fill="#8C5F37"/>
-  <path d="M38 25 H48 V41 H54" fill="none" stroke="#F3ECE1" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="48" cy="33" r="1.8" fill="#F3ECE1"/>
-  <circle cx="54" cy="41" r="3.2" fill="#F3ECE1"/>
-  <circle cx="54" cy="41" r="1.2" fill="#1B1815"/>
-</svg>
+<img width="64" height="64" alt="Logo Student_Record_Manager" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTYiIGZpbGw9IiMxQjE4MTUiLz4KICA8cG9seWdvbiBwb2ludHM9IjI2LDE1IDM4LDI1IDI2LDM1IDE0LDI1IiBmaWxsPSIjQjg3RjRFIiBzdHJva2U9IiM4QzVGMzciIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgPHJlY3QgeD0iMjQiIHk9IjM1IiB3aWR0aD0iNCIgaGVpZ2h0PSI2IiByeD0iMS41IiBmaWxsPSIjOEM1RjM3Ii8+CiAgPHBhdGggZD0iTTM4IDI1IEg0OCBWNDEgSDU0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGM0VDRTEiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICA8Y2lyY2xlIGN4PSI0OCIgY3k9IjMzIiByPSIxLjgiIGZpbGw9IiNGM0VDRTEiLz4KICA8Y2lyY2xlIGN4PSI1NCIgY3k9IjQxIiByPSIzLjIiIGZpbGw9IiNGM0VDRTEiLz4KICA8Y2lyY2xlIGN4PSI1NCIgY3k9IjQxIiByPSIxLjIiIGZpbGw9IiMxQjE4MTUiLz4KPC9zdmc+Cg==" />
 
 # Student_Record_Manager
 
