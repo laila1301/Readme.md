@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://placehold.co/72x72/1B1815/B87F4E.png?text=%E2%9C%93&font=montserrat" width="64" alt="Logo Student_Record_Manager" />
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="16" fill="#1B1815"/>
+  <polygon points="26,15 38,25 26,35 14,25" fill="#B87F4E" stroke="#8C5F37" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="24" y="35" width="4" height="6" rx="1.5" fill="#8C5F37"/>
+  <path d="M38 25 H48 V41 H54" fill="none" stroke="#F3ECE1" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="48" cy="33" r="1.8" fill="#F3ECE1"/>
+  <circle cx="54" cy="41" r="3.2" fill="#F3ECE1"/>
+  <circle cx="54" cy="41" r="1.2" fill="#1B1815"/>
+</svg>
 
 # Student_Record_Manager
 
